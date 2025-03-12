@@ -1,4 +1,4 @@
-## Opa, Me chamo Leonardo, estou cursando ADS e trabalhando como desenvolvedor de software, especialmente com desenvolvimento utilizado I.A. Grande parte das minhas contribuições atuais estão no perfil do instituto em que trabalho: https://github.com/InstitutoBraudel
+## Opa, Me chamo Leonardo, estou cursando ADS e trabalhando como desenvolvedor de software, especialmente com desenvolvimento utilizando I.A. Grande parte das minhas contribuições atuais estão no perfil do instituto em que trabalho: https://github.com/InstitutoBraudel
 
 ![](https://github-readme-stats.vercel.app/api?username=Leozs00&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
